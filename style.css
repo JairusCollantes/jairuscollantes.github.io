@@ -247,7 +247,6 @@ footer {
     transform: translateY(-5px);
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .about-content, .contact-container {
         flex-direction: column;
